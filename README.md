@@ -1,1 +1,1 @@
-# This project is for NPX full stack develoer asssignment. Created by Edward Han
+# This project is for POKEMON DISPLAY. Created by Edward Han
